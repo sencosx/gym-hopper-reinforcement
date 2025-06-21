@@ -7,7 +7,7 @@
 ###### Politecnico di Torino
 
 ## Reference Paper
-- [How to Train a Robot and Still Sleep at Night](https://github.com/305909/gym-hopper-reinforcement/blob/main/docs/gym-hopper-reinforcement-ACM.pdf)
+- [How to Train a Robot and Still Sleep at Night](https://github.com/sencosx/gym-hopper-reinforcement/blob/main/docs/gym-hopper-reinforcement-ACM.pdf)
 
 ---
 
@@ -35,7 +35,7 @@ Play time starts here.
 1. Fire this up in your notebook:
 
 ```python
-!git clone https://github.com/305909/gym-hopper-reinforcement.git
+!git clone https://github.com/sencosx/gym-hopper-reinforcement.git
 !bash gym-hopper-reinforcement/src/requirements.sh
 ```
 
